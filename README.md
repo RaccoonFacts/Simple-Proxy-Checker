@@ -21,4 +21,4 @@ Simple Proxy Checker is a simple Windows Forms application built in C# that allo
 ## How to Use
 1. **Clone or Download**: Clone this repository or download the source code from GitHub.
    ```bash
-   git clone https://github.com/yourusername/Simple-Proxy-Checker.git
+   git clone https://github.com/RaccoonFacts/Simple-Proxy-Checker.git
